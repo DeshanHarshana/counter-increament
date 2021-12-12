@@ -1,0 +1,20 @@
+{
+  "name": "increment-counter",
+  "version": "1.0.0",
+  "description": "This can used to increase counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeshanHarshana/counter-increament.git"
+  },
+  "author": "Deshan Harshana",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DeshanHarshana/counter-increament/issues"
+  },
+  "homepage": "https://github.com/DeshanHarshana/counter-increament#readme"
+}
